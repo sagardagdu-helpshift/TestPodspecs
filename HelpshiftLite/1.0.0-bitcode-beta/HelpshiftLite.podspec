@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'HelpshiftLite'
-  s.version             = '1.0.0-beta'
+  s.version             = '1.0.0-bitcode-beta'
   s.summary             = 'Customer service helpdesk for mobile applications.'
   s.license             = { :type => 'Commercial', :text => 'See http://www.helpshift.com/terms/' }
   s.homepage            = 'http://www.helpshift.com/'
